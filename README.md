@@ -72,6 +72,7 @@ Para usar a OpenAI API, você precisa de uma chave de API válida. Siga os passo
 
    ```plaintext
    OPENAI_API_KEY=sua-chave-api-aqui
+   ```
 
 ## Author
 
