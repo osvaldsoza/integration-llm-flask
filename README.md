@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Flask LLM Integration
 
-Este projeto demonstra como integrar um modelo de linguagem (LLM) usando Flask.
+Este projeto demonstra como integrar um modelo de linguagem [LLM](https://en.wikipedia.org/wiki/Large_language_model) usando Flask.
 
 ## Estrutura do Projeto
 
@@ -19,6 +18,9 @@ project-root/
 
 - Python 3.x
 - pip3
+- openai == 0.28.0
+- flask
+- python-dotenv
 
 ## Configuração
 
@@ -70,9 +72,3 @@ Para usar a OpenAI API, você precisa de uma chave de API válida. Siga os passo
 
    ```plaintext
    OPENAI_API_KEY=sua-chave-api-aqui
-=======
-# Integration LLM Flask
-## source venv/bin/activate
-## pip install flask openai==0.28 python-dotenv
-
->>>>>>> a8d7af3a970c454b8e17ecd2899812158702d18f
